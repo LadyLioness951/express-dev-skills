@@ -7,3 +7,7 @@ body {
 a {
   color: blue;
 }
+
+li {
+  list-style: none;
+}
