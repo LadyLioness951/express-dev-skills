@@ -6,7 +6,7 @@ module.exports = {
     new: newSkill,
     create,
     delete: deleteSkill,
-    edit
+    edit,
 };
 
 function index(req, res) {

@@ -11,7 +11,7 @@ module.exports = {
     getOne,
     getAll, 
     create,
-    deleteOne
+    deleteOne,
 };
 
 function getOne(id) {

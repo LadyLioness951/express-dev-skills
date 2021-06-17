@@ -1,7 +1,7 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-color: blueviolet;
+  background-color: mediumorchid;
 }
 
 a {
@@ -10,4 +10,13 @@ a {
 
 li {
   list-style: none;
+  margin: 5px;
+}
+
+.delete-form {
+  display: inline-block;
+}
+
+.delete-form button {
+  background-color: mediumblue;
 }
